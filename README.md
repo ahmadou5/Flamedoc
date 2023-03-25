@@ -52,15 +52,15 @@ Win collectible NFTs for participating in trading competitions and more fun & ga
 See for yourself:
 
 * Check out this FlameFinance Have Successfully Verified KYC with CoreDao Team:
-  *
+  * Check us on https:coredao.org/developers.html
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
+  * Our contracts are verified on CoreScan so you know that what you see is what you get
 * Security best practices:
-  * The chefs use multisig for all contracts.
+  * Our Devs use multisig for all contracts.
   * Our contracts’ time-locks give you peace of mind.
 
-**Sounds like fun?**\
-**Then get flipping!** 🐰 🥞
+**Sounds like Flame?**\
+**Then Keep Burning**
 
 ***
